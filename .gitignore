@@ -1,0 +1,14 @@
+# PyCharm settings
+.idea/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Mac OS junk
+.DS_Store
