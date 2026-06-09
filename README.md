@@ -24,7 +24,7 @@ To run the source code, you must have Python 3.9+ installed.
     ```
 
 ## 🛠️ Usage
-
+First, open your terminal and navigate to the folder where you downloaded or cloned the project:
 Use the extremely convenient `pst` batch shortcut from your terminal!
 
 ```bash
