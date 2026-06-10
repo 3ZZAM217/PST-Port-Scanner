@@ -109,4 +109,3 @@ if __name__ == "__main__":
     except AttributeError:
         pass
     main()
-    # force language update
