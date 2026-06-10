@@ -10,5 +10,16 @@ venv/
 .venv/
 env/
 
+# Build artifacts (PyInstaller)
+build/
+dist/
+*.spec
+
+# Scan output files
+results.json
+*.csv
+report*.html
+final_report*.html
+
 # Mac OS junk
 .DS_Store
